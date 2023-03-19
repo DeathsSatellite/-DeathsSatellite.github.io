@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://pbs.twimg.com/media/FmDLfb1aUAAgeBO?format=jpg&name=large);
+  background-position: center 10px;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding-top: 125px;
+  margin-right: 23px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
